@@ -1,4 +1,4 @@
-![](http://f.cl.ly/items/391y4708420P0H001k1G/meteoric.png)
+![](http://f.cl.ly/items/391y4708420P0H001k1G/hashwin.png)
 
 # ionicons-sass
 
@@ -8,13 +8,13 @@
 
 ```
 meteor add fourseven:scss
-meteor add meteoric:ionicons-sass
+meteor add hashwin:ionicons-sass
 ```
 
 Then in your app's `.scss` file:
 
 ```
-@import '.meteor/local/build/programs/server/assets/packages/meteoric_ionicons-sass/ionicons';
+@import '{hashwin:ionicons-sass}/_ionicons';
 ```
 
 **NOTE:**
@@ -25,4 +25,4 @@ Due to a current limitation of the Meteor packaging system, the above path may n
 See the official [Ionicons](http://ionicons.com/) site for usage instructions.
 
 ## License
-[MIT License](https://github.com/meteoric/ionicons-sass/blob/master/LICENSE)
+[MIT License](https://github.com/hashwin/ionicons-sass/blob/master/LICENSE)
