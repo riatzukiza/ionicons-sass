@@ -1,7 +1,7 @@
 Package.describe({
   name: 'hashwin:ionicons-sass',
   summary: "Ionic's Ionicons library in SASS and bundled for Meteor.",
-  version: '0.1.8',
+  version: '0.1.9',
   git: 'https://github.com/hashwin/ionicons-sass'
 });
 
