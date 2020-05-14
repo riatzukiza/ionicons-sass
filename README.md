@@ -8,13 +8,13 @@
 
 ```
 meteor add fourseven:scss
-meteor add hashwin:ionicons-sass
+meteor add errorprotoype:ionicons-sass
 ```
 
 Then in your app's `.scss` file:
 
 ```
-@import '{hashwin:ionicons-sass}/_ionicons';
+@import '{errorprotoype:ionicons-sass}/_ionicons';
 ```
 
 **NOTE:**
@@ -25,4 +25,4 @@ Due to a current limitation of the Meteor packaging system, the above path may n
 See the official [Ionicons](http://ionicons.com/) site for usage instructions.
 
 ## License
-[MIT License](https://github.com/hashwin/ionicons-sass/blob/master/LICENSE)
+[MIT License](https://github.com/riatzukiza/ionicons-sass/blob/master/LICENSE)
